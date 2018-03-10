@@ -2,10 +2,10 @@
 
 import sys
 sys.path[0:0] = [
-  '/home/ubuntu/workspace/Plone/buildout-cache/eggs/plone.reload-2.0.2-py2.7.egg',
-  '/home/ubuntu/workspace/Plone/buildout-cache/eggs/Products.DocFinderTab-1.0.5-py2.7.egg',
   '/home/ubuntu/workspace/Plone/buildout-cache/eggs/Plone-5.1.0-py2.7.egg',
   '/home/ubuntu/workspace/Plone/buildout-cache/eggs/Pillow-4.3.0-py2.7-linux-x86_64.egg',
+  '/home/ubuntu/workspace/Plone/buildout-cache/eggs/Products.DocFinderTab-1.0.5-py2.7.egg',
+  '/home/ubuntu/workspace/Plone/buildout-cache/eggs/plone.reload-2.0.2-py2.7.egg',
   '/home/ubuntu/workspace/Plone/buildout-cache/eggs/plone.recipe.zope2instance-4.3-py2.7.egg',
   '/home/ubuntu/workspace/Plone/buildout-cache/eggs/zc.recipe.egg-2.0.4-py2.7.egg',
   '/home/ubuntu/workspace/Plone/zinstance/lib/python2.7/site-packages',
