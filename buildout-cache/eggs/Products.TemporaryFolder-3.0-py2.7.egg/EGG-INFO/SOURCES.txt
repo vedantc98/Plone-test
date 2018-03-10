@@ -1,0 +1,17 @@
+CHANGES.rst
+COPYRIGHT.txt
+LICENSE.txt
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+src/.DS_Store
+src/Products/.DS_Store
+src/Products/__init__.py
+src/Products.TemporaryFolder.egg-info/PKG-INFO
+src/Products.TemporaryFolder.egg-info/SOURCES.txt
+src/Products.TemporaryFolder.egg-info/dependency_links.txt
+src/Products.TemporaryFolder.egg-info/namespace_packages.txt
+src/Products.TemporaryFolder.egg-info/not-zip-safe
+src/Products.TemporaryFolder.egg-info/requires.txt
+src/Products.TemporaryFolder.egg-info/top_level.txt

@@ -1,0 +1,8 @@
+Products.ATContentTypes
+collective.monkeypatcher
+plone.app.multilingual
+setuptools
+
+[test]
+plone.app.multilingual[test]
+plone.app.testing

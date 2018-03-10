@@ -1,0 +1,6 @@
+lxml/_elementpath.so
+lxml/builder.so
+lxml/etree.so
+lxml/objectify.so
+lxml/html/clean.so
+lxml/html/diff.so

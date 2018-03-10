@@ -1,0 +1,15 @@
+#!/home/ubuntu/workspace/Plone/zinstance/bin/python
+
+import sys
+sys.path[0:0] = [
+  '/home/ubuntu/workspace/Plone/buildout-cache/eggs/Jinja2-2.5.5-py2.7.egg',
+  '/home/ubuntu/workspace/Plone/buildout-cache/eggs/bobtemplates.plone-2.0-py2.7.egg',
+  '/home/ubuntu/workspace/Plone/buildout-cache/eggs/mr.bob-0.1.2-py2.7.egg',
+  '/home/ubuntu/workspace/Plone/zinstance/lib/python2.7/site-packages',
+  '/home/ubuntu/workspace/Plone/buildout-cache/eggs/six-1.10.0-py2.7.egg',
+  ]
+
+import mrbob.cli
+
+if __name__ == '__main__':
+    sys.exit(mrbob.cli.main())

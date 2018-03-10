@@ -1,0 +1,6 @@
+ZODB3>=3.9
+Zope2>=2.12.1
+mailinglogger
+setuptools
+zc.buildout
+zc.recipe.egg

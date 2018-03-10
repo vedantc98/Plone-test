@@ -1,0 +1,16 @@
+colorama
+setuptools
+six
+twine>=1.6.0
+
+[recommended]
+chardet
+check-manifest
+pyroma
+readme-renderer
+wheel
+
+[test]
+wheel
+z3c.testsetup>=0.8.4
+zope.testrunner

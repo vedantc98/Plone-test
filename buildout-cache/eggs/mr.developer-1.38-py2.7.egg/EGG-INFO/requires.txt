@@ -1,0 +1,5 @@
+setuptools
+zc.buildout
+
+[test]
+mock

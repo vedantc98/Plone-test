@@ -1,0 +1,12 @@
+#!/home/ubuntu/workspace/Plone/zinstance/bin/python
+
+import sys
+sys.path[0:0] = [
+  '/home/ubuntu/workspace/Plone/buildout-cache/eggs/mr.developer-1.38-py2.7.egg',
+  '/home/ubuntu/workspace/Plone/zinstance/lib/python2.7/site-packages',
+  ]
+
+import mr.developer.develop
+
+if __name__ == '__main__':
+    sys.exit(mr.developer.develop.develop())

@@ -1,0 +1,16 @@
+#!/home/ubuntu/workspace/Plone/zinstance/bin/python
+
+import sys
+sys.path[0:0] = [
+  '/home/ubuntu/workspace/Plone/buildout-cache/eggs/diazo-1.2.8-py2.7.egg',
+  '/home/ubuntu/workspace/Plone/buildout-cache/eggs/six-1.10.0-py2.7.egg',
+  '/home/ubuntu/workspace/Plone/buildout-cache/eggs/future-0.16.0-py2.7.egg',
+  '/home/ubuntu/workspace/Plone/buildout-cache/eggs/cssselect-1.0.1-py2.7.egg',
+  '/home/ubuntu/workspace/Plone/buildout-cache/eggs/lxml-4.1.1-py2.7-linux-x86_64.egg',
+  '/home/ubuntu/workspace/Plone/zinstance/lib/python2.7/site-packages',
+  ]
+
+import diazo.compiler
+
+if __name__ == '__main__':
+    sys.exit(diazo.compiler.main())

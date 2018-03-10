@@ -1,0 +1,11 @@
+five.globalrequest
+setuptools
+six
+zope.globalrequest
+
+[test]
+Products.MimetypesRegistry
+five.localsitemanager
+manuel
+plone.app.blob
+plone.testing[z2]

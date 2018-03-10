@@ -1,0 +1,14 @@
+CHANGES.rst
+COPYRIGHT.txt
+LICENSE.txt
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+src/Products/__init__.py
+src/ZServer.egg-info/PKG-INFO
+src/ZServer.egg-info/SOURCES.txt
+src/ZServer.egg-info/dependency_links.txt
+src/ZServer.egg-info/not-zip-safe
+src/ZServer.egg-info/requires.txt
+src/ZServer.egg-info/top_level.txt
